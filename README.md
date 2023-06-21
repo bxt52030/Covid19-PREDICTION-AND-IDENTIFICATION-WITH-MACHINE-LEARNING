@@ -1,3 +1,7 @@
+CRN: 30460
+Name: Bharath Chandra Tangallapalli.
+Student ID: 700745203
+
 Title: 
 Covid19-PREDICTION-AND-IDENTIFICATION-WITH-MACHINE-LEARNING
 
@@ -10,9 +14,6 @@ Logistic Regression Algorithm
 Objective:
 The objective of Covid19 disease identification with machine learning is to detect the Covid19 disease in the early stage itself with the available attributes. 
 It will be helpful for the human to detect disease at early stage and to take necessary treatments in the correct time to save life.
-
-
-
 
 Execution Process:
 In the first step, we need to go to the google colabs in the google chrome, open the google colabs and it will create a colab Notebooks in our Google drive. 
