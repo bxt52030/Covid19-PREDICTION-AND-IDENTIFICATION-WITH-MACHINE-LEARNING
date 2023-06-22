@@ -5,6 +5,12 @@ Student ID: 700745203
 Title: 
 Covid19-PREDICTION-AND-IDENTIFICATION-WITH-MACHINE-LEARNING
 
+Team Members:
+
+Sri Charan Reddy Nannuri - Student ID 700747879
+Bharath Chandra Tangallapalli - Student ID 700745203
+Karishma Shaik - Student ID 700744936
+
 Tool Used:
 Google Colab-Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education. More technically, Colab is a hosted Jupyter notebook service that requires no setup to use, while providing access free of charge to computing resources including GPUs.
 
